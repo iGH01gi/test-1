@@ -40,5 +40,4 @@ int main()
   
   # 이미지테스트
   ![이미지 연습](https://cdn.epnc.co.kr/news/photo/202006/97865_90528_429.png)
-  
-  
+  ![맥](이미지/9e08e6cc90d08fc680e8105564f9a24d3ee3bfe9ac73308976670030d1ff2fc58cc69835f7f4266508d365bdd7b25af5adb53b72470d9ecb9c023efff461ccea2ae232d19de5850d9e594c178e6090b42152b202ba4159a16a8338189024d5e9.jpg)
